@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasy",
+      "rating": 4.8,
+      "description": "The first book in the Harry Potter series where a young wizard discovers his magical heritage."
+    },
+    {
+      "id": 2,
+      "title": "Mickey Mouse: The Ultimate Collection",
+      "author": "Walt Disney",
+      "year": 1928,
+      "genre": "Children's Literature",
+      "rating": 4.6,
+      "description": "Classic adventures of the beloved Disney character Mickey Mouse and his friends."
+    },
+    {
+      "id": 3,
+      "title": "Kifo Kisimani",
+      "author": "Ken Walibora",
+      "year": 2000,
+      "genre": "Drama",
+      "rating": 4.7,
+      "description": "A powerful Swahili novel exploring themes of life, death, and social issues in contemporary Africa."
+    },
+    {
+      "title": "washipa",
+      "author": "mme",
+      "year": "2009",
+      "genre": "comedy",
+      "rating": "4",
+      "id": 4
+    }
+  ]
+}
